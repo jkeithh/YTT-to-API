@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+yt-dlp
+deepgram-sdk==2.12.0
